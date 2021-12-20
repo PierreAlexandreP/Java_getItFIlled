@@ -1,0 +1,160 @@
+<levels>
+	<level number="30">
+	
+		<item type="OutsideCell" x="0" y="0"> </item>
+		<item type="OutsideCell" x="0" y="1"> </item>
+		<item type="OutsideCell" x="0" y="2"> </item>
+		<item type="OutsideCell" x="0" y="3"> </item>
+		<item type="OutsideCell" x="0" y="4"> </item>
+		<item type="OutsideCell" x="0" y="5"> </item>
+		<item type="OutsideCell" x="0" y="6"> </item>
+		<item type="OutsideCell" x="0" y="7"> </item>
+		<item type="OutsideCell" x="0" y="8"> </item>
+		<item type="OutsideCell" x="0" y="9"> </item>
+		<item type="OutsideCell" x="0" y="10"> </item>
+		<item type="OutsideCell" x="0" y="11"> </item>
+		<item type="OutsideCell" x="0" y="12"> </item>
+		<item type="OutsideCell" x="0" y="13"> </item>
+		<item type="OutsideCell" x="0" y="14"> </item>
+		<item type="OutsideCell" x="0" y="15"> </item>
+		
+		<item type="OutsideCell" x="1" y="0"> </item>
+		<item type="OutsideCell" x="1" y="1"> </item>
+		<item type="OutsideCell" x="1" y="2"> </item>
+		<item type="OutsideCell" x="1" y="3"> </item>
+		<item type="OutsideCell" x="1" y="4"> </item>
+		<item type="OutsideCell" x="1" y="5"> </item>
+		<item type="OutsideCell" x="1" y="6"> </item>
+		<item type="OutsideCell" x="1" y="7"> </item>
+		<item type="OutsideCell" x="1" y="8"> </item>
+		<item type="OutsideCell" x="1" y="9"> </item>
+		<item type="OutsideCell" x="1" y="10"> </item>
+		<item type="OutsideCell" x="1" y="11"> </item>
+		<item type="OutsideCell" x="1" y="12"> </item>
+		<item type="OutsideCell" x="1" y="13"> </item>
+		<item type="OutsideCell" x="1" y="14"> </item>
+		<item type="OutsideCell" x="1" y="15"> </item>
+		
+		<item type="OutsideCell" x="2" y="0"> </item>
+		<item type="OutsideCell" x="2" y="1"> </item>
+		<item type="TeleportCell" x="2" y="2" twinx="7" twiny="13"> </item>
+		<item type="ReachableCell" x="2" y="3"> </item>
+		<item type="ReachableCell" x="2" y="4"> </item>
+		<item type="ReachableCell" x="2" y="5"> </item>
+		<item type="ReachableCell" x="2" y="6"> </item>
+		<item type="EndCell" x="2" y="7"> </item>
+		<item type="ReachableCell" x="2" y="8"> </item>
+		<item type="ReachableCell" x="2" y="9"> </item>
+		<item type="ReachableCell" x="2" y="10"> </item>
+		<item type="ReachableCell" x="2" y="11"> </item>
+		<item type="ReachableCell" x="2" y="12"> </item>
+		<item type="TeleportCell" x="2" y="13" twinx="7" twiny="2"> </item>
+		<item type="OutsideCell" x="2" y="14"> </item>
+		<item type="OutsideCell" x="2" y="15"> </item>
+	
+		<item type="OutsideCell" x="3" y="0"> </item>
+		<item type="OutsideCell" x="3" y="1"> </item>
+		<item type="OutsideCell" x="3" y="2"> </item>
+		<item type="OutsideCell" x="3" y="3"> </item>
+		<item type="ReachableCell" x="3" y="4"> </item>
+		<item type="Hole" x="3" y="5"> </item>
+		<item type="ReachableCell" x="3" y="6"> </item>
+		<item type="ReachableCell" x="3" y="7"> </item>
+		<item type="ReachableCell" x="3" y="8"> </item>
+		<item type="Wall" x="3" y="9"> </item>
+		<item type="Wall" x="3" y="10"> </item>
+		<item type="ReachableCell" x="3" y="11"> </item>
+		<item type="ReachableCell" x="3" y="12"> </item>
+		<item type="OutsideCell" x="3" y="13"> </item>
+		<item type="OutsideCell" x="3" y="14"> </item>
+		<item type="OutsideCell" x="3" y="15"> </item>
+		
+		<item type="OutsideCell" x="4" y="0"> </item>
+		<item type="OutsideCell" x="4" y="1"> </item>
+		<item type="ReachableCell" x="4" y="2"> </item>
+		<item type="ReachableCell" x="4" y="3"> </item>
+		<item type="ReachableCell" x="4" y="4"> </item>
+		<item type="ReachableCell" x="4" y="5"> </item>
+		<item type="Wall" x="4" y="6"> </item>
+		<item type="Wall" x="4" y="7"> </item>
+		<item type="BeginCell" x="4" y="8"> </item>
+		<item type="Wall" x="4" y="9"> </item>
+		<item type="TeleportCell" x="4" y="10" twinx="5" twiny="6"> </item>
+		<item type="ReachableCell" x="4" y="11"> </item>
+		<item type="ReachableCell" x="4" y="12"> </item>
+		<item type="ReachableCell" x="4" y="13"> </item>
+		<item type="OutsideCell" x="4" y="14"> </item>
+		<item type="OutsideCell" x="4" y="15"> </item>
+		
+				
+		<item type="OutsideCell" x="5" y="0"> </item>
+		<item type="OutsideCell" x="5" y="1"> </item>
+		<item type="ReachableCell" x="5" y="2"> </item>
+		<item type="ReachableCell" x="5" y="3"> </item>
+		<item type="ReachableCell" x="5" y="4"> </item>
+		<item type="ReachableCell" x="5" y="5"> </item>
+		<item type="TeleportCell" x="5" y="6" twinx="4" twiny="10"> </item>
+		<item type="Wall" x="5" y="7"> </item>
+		<item type="ReachableCell" x="5" y="8"> </item>
+		<item type="ReachableCell" x="5" y="9"> </item>
+		<item type="ReachableCell" x="5" y="10"> </item>
+		<item type="ReachableCell" x="5" y="11"> </item>
+		<item type="ReachableCell" x="5" y="12"> </item>
+		<item type="ReachableCell" x="5" y="13"> </item>
+		<item type="OutsideCell" x="5" y="14"> </item>
+		<item type="OutsideCell" x="5" y="15"> </item>
+		
+		<item type="OutsideCell" x="6" y="0"> </item>
+		<item type="OutsideCell" x="6" y="1"> </item>
+		<item type="OutsideCell" x="6" y="2"> </item>
+		<item type="OutsideCell" x="6" y="3"> </item>
+		<item type="ReachableCell" x="6" y="4"> </item>
+		<item type="ReachableCell" x="6" y="5"> </item>
+		<item type="ReachableCell" x="6" y="6"> </item>
+		<item type="ReachableCell" x="6" y="7"> </item>
+		<item type="ReachableCell" x="6" y="8"> </item>
+		<item type="ReachableCell" x="6" y="9"> </item>
+		<item type="ReachableCell" x="6" y="10"> </item>
+		<item type="ReachableCell" x="6" y="11"> </item>
+		<item type="OutsideCell" x="6" y="12"> </item>
+		<item type="OutsideCell" x="6" y="13"> </item>
+		<item type="OutsideCell" x="6" y="14"> </item>
+		<item type="OutsideCell" x="6" y="15"> </item>
+		
+		<item type="OutsideCell" x="7" y="0"> </item>
+		<item type="OutsideCell" x="7" y="1"> </item>
+		<item type="TeleportCell" x="7" y="2" twinx="2" twiny="13"></item>
+		<item type="ReachableCell" x="7" y="3"> </item>
+		<item type="ReachableCell" x="7" y="4"> </item>
+		<item type="ReachableCell" x="7" y="5"> </item>
+		<item type="ReachableCell" x="7" y="6"> </item>
+		<item type="ReachableCell" x="7" y="7"> </item>
+		<item type="ReachableCell" x="7" y="8"> </item>
+		<item type="ReachableCell" x="7" y="9"> </item>
+		<item type="ReachableCell" x="7" y="10"> </item>
+		<item type="ReachableCell" x="7" y="11"> </item>
+		<item type="ReachableCell" x="7" y="12"> </item>
+		<item type="TeleportCell" x="7" y="13" twinx="2" twiny="2"> </item>
+		<item type="OutsideCell" x="7" y="14"> </item>
+		<item type="OutsideCell" x="7" y="15"> </item>
+		
+		<item type="OutsideCell" x="8" y="0"> </item>
+		<item type="OutsideCell" x="8" y="1"> </item>
+		<item type="OutsideCell" x="8" y="2"> </item>
+		<item type="OutsideCell" x="8" y="3"> </item>
+		<item type="OutsideCell" x="8" y="4"> </item>
+		<item type="OutsideCell" x="8" y="5"> </item>
+		<item type="OutsideCell" x="8" y="6"> </item>
+		<item type="OutsideCell" x="8" y="7"> </item>
+		<item type="OutsideCell" x="8" y="8"> </item>
+		<item type="OutsideCell" x="8" y="9"> </item>
+		<item type="OutsideCell" x="8" y="10"> </item>
+		<item type="OutsideCell" x="8" y="11"> </item>
+		<item type="OutsideCell" x="8" y="12"> </item>
+		<item type="OutsideCell" x="8" y="13"> </item>
+		<item type="OutsideCell" x="8" y="14"> </item>
+		<item type="OutsideCell" x="8" y="15"> </item>
+		
+	
+	</level>
+</levels>
